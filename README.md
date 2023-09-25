@@ -2,6 +2,6 @@
 
 > Status do curso: em andamento
 
-'''
+```
   Detalhe mostrado no curso.
-'''
+```
